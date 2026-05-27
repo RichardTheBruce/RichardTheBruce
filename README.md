@@ -8,13 +8,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RichardTheBruce&label=profile+views&color=c97d3e&style=flat-square" alt="profile views" />
-  <a href="https://www.gblock.gg"><img src="https://img.shields.io/badge/site-gblock.gg-c97d3e?style=flat-square" alt="gblock.gg" /></a>
   <a href="https://linkedin.com/in/richard-wayne-nuro"><img src="https://img.shields.io/badge/linkedin-richard--wayne--nuro-1C1C1C?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
 ### He who creates.
 
-Founder and CEO of **Nuro Finance**. Agentic finance across 23 chains, built on LayerZero V2 and Circle CCTP, with Visa rails and native x402. Live home at **[gblock.gg](https://www.gblock.gg)**.
+Founder and CEO of **Nuro Finance**. Agentic finance across 23 chains, built on LayerZero V2 and Circle CCTP, with Visa rails and native x402.
 
 ### What I am shipping right now
 
@@ -52,7 +51,6 @@ I pair a senior dev with a custom neural net of agents. The pairing is the produ
 
 ### Where to find me
 
-- Site: **[gblock.gg](https://www.gblock.gg)**
 - LinkedIn: **[richard-wayne-nuro](https://linkedin.com/in/richard-wayne-nuro)**
 - Upwork: catalog **2054540114667442621** (Neural Nets for Everything)
 
