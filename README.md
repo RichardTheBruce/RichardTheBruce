@@ -30,8 +30,8 @@ I pair a senior dev with a custom neural net of agents. The pairing is the produ
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RichardTheBruce&show_icons=true&hide_border=true&title_color=c97d3e&icon_color=c97d3e&text_color=1C1C1C&bg_color=F5F2EC" height="170" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardTheBruce&layout=compact&hide_border=true&title_color=c97d3e&text_color=1C1C1C&bg_color=F5F2EC" height="170" alt="top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RichardTheBruce&show_icons=true&hide_border=true&title_color=c97d3e&icon_color=c97d3e&text_color=1C1C1C&bg_color=F5F2EC" height="170" alt="github stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RichardTheBruce&layout=compact&hide_border=true&title_color=c97d3e&text_color=1C1C1C&bg_color=F5F2EC" height="170" alt="top languages" />
 </p>
 
 <p align="center">
