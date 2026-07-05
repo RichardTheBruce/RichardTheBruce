@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C97D3E&center=true&vCenter=true&width=820&lines=Founder+and+CEO%2C+Nuro+Finance;Agentic+finance+across+23+chains;Neural+Nets+for+Everything;He+who+creates." alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C97D3E&center=true&vCenter=true&width=820&lines=Founder+and+CEO%2C+AFI;Agentic+finance+across+23+chains;Neural+Nets+for+Everything;He+who+creates." alt="typing intro" />
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@
 
 ### He who creates.
 
-Founder and CEO of **Nuro Finance**. Agentic finance across 23 chains, built on LayerZero V2 and Circle CCTP, with Visa rails and native x402.
+Founder and CEO of **AFI**. Agentic finance across 23 chains, built on LayerZero V2 and Circle CCTP, with Visa rails and native x402.
 
 ### What I am shipping right now
 
-- **Nuro Finance**. AFI mainnet, Sprint 2.3 pushing to live end-to-end across 23 chains.
+- **AFI**. The agentic bank. Mainnet, Sprint 2.3 pushing to live end-to-end across 23 chains.
 - **2gather**. Invite-only social network. Four mobile sprints, shipped single-day on 2026-05-19.
 - **Lineage**. Productized intake loop that builds personal neural nets for clients.
-- **Memetropolis**. $300K LayerZero V2 cross-chain launchpad. Patterns now feeding the Nuro Finance bridge layer.
+- **Memetropolis**. $300K LayerZero V2 cross-chain launchpad. Patterns now feeding the AFI bridge layer.
 
 ### How I work
 
