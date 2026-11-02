@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/commits.svg" width="840" alt="Contributions in 2026, public and private" />
+  <img src="./assets/commits.svg?v=202611021135" width="840" alt="Contributions in 2026, public and private" />
 </p>
 
 ### He who creates.
@@ -34,7 +34,7 @@ Tech VP at **Barclays**. Founder of **AFI**. I ship across the whole stack: smar
 - **2gather**. Invite-only social network. Expo + Supabase, four mobile sprints in one day.
 
 <p align="center">
-  <img src="./assets/activity.svg" width="840" alt="Commits per month" />
+  <img src="./assets/activity.svg?v=202611021135" width="840" alt="Commits per month" />
 </p>
 
 ### Stack
@@ -45,7 +45,7 @@ Tech VP at **Barclays**. Founder of **AFI**. I ship across the whole stack: smar
 </p>
 
 <p align="center">
-  <img src="./assets/languages.svg" width="840" alt="Languages by number of repos" />
+  <img src="./assets/languages.svg?v=202611021135" width="840" alt="Languages by number of repos" />
 </p>
 
 ### Contribution snake

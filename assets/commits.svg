@@ -12,18 +12,22 @@
   </style>
 </defs>
 <rect x=".5" y=".5" width="839" height="249" rx="14" fill="#141414" stroke="#2A2723"/>
-<text x="32" y="44" class="m" font-size="11">2026  ·  public + private repos  ·  every branch</text>
-<g class="rise"><text x="30" y="128" class="t" font-size="88" font-weight="760" letter-spacing="-3"><tspan style="fill:url(#g)" fill="url(#g)">4,852</tspan><tspan dx="18" font-size="26" font-weight="500" letter-spacing="0" fill="#F5F2EC">contributions in 2026</tspan></text></g>
-<line x1="32" y1="150" x2="808" y2="150" stroke="#2A2723"/>
+<text x="32" y="44" class="m" font-size="11">2026  ·  public + private repos</text>
+<g class="rise"><text x="30" y="128" class="t" font-size="88" font-weight="760" letter-spacing="-3"><tspan style="fill:url(#g)" fill="url(#g)">4,853</tspan><tspan dx="18" font-size="26" font-weight="500" letter-spacing="0" fill="#F5F2EC">contributions in 2026</tspan></text></g>
+<g class="rise" style="animation-delay:.25s">
+  <circle cx="748" cy="92" r="50" fill="none" stroke="#2A2723" stroke-width="7"/>
+  <circle cx="748" cy="92" r="50" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round"
+    stroke-dasharray="314.2" transform="rotate(-90 748 92)"/>
+  <text x="748" y="105" text-anchor="middle" class="t" font-size="38" font-weight="780" style="fill:url(#g)" fill="url(#g)">S+</text>
+  <text x="748" y="164" text-anchor="middle" class="m" font-size="10">rank</text></g>
+<line x1="32" y1="150" x2="660" y2="150" stroke="#2A2723"/>
 <g class="rise" style="animation-delay:0.35s">
-  <text x="32" y="192" class="t" font-size="24" font-weight="650">4,045</text>
-  <text x="32" y="212" class="m" font-size="10">commits in 2026</text></g><line x1="187" y1="168" x2="187" y2="214" stroke="#2A2723"/><g class="rise" style="animation-delay:0.43s">
-  <text x="201" y="192" class="t" font-size="24" font-weight="650">4,901</text>
-  <text x="201" y="212" class="m" font-size="10">commits all time</text></g><line x1="342" y1="168" x2="342" y2="214" stroke="#2A2723"/><g class="rise" style="animation-delay:0.51s">
-  <text x="356" y="192" class="t" font-size="24" font-weight="650">173</text>
-  <text x="356" y="212" class="m" font-size="10">active days in 2026</text></g><line x1="498" y1="168" x2="498" y2="214" stroke="#2A2723"/><g class="rise" style="animation-delay:0.59s">
-  <text x="512" y="192" class="t" font-size="24" font-weight="650">26</text>
-  <text x="512" y="212" class="m" font-size="10">day best streak</text></g><line x1="653" y1="168" x2="653" y2="214" stroke="#2A2723"/><g class="rise" style="animation-delay:0.67s">
-  <text x="667" y="192" class="t" font-size="24" font-weight="650">363</text>
-  <text x="667" y="212" class="m" font-size="10">on the busiest day</text></g>
+  <text x="32" y="192" class="t" font-size="24" font-weight="650">1,691</text>
+  <text x="32" y="212" class="m" font-size="10">in October alone</text></g><line x1="226" y1="168" x2="226" y2="214" stroke="#2A2723"/><g class="rise" style="animation-delay:0.43s">
+  <text x="240" y="192" class="t" font-size="24" font-weight="650">363</text>
+  <text x="240" y="212" class="m" font-size="10">on the busiest day</text></g><line x1="420" y1="168" x2="420" y2="214" stroke="#2A2723"/><g class="rise" style="animation-delay:0.51s">
+  <text x="434" y="192" class="t" font-size="24" font-weight="650">173</text>
+  <text x="434" y="212" class="m" font-size="10">active days in 2026</text></g><line x1="614" y1="168" x2="614" y2="214" stroke="#2A2723"/><g class="rise" style="animation-delay:0.59s">
+  <text x="628" y="192" class="t" font-size="24" font-weight="650">26</text>
+  <text x="628" y="212" class="m" font-size="10">day best streak</text></g>
 </svg>
