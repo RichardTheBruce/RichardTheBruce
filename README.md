@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C97D3E&center=true&vCenter=true&width=820&lines=Founder+and+CEO%2C+AFI;Agentic+finance+across+23+chains;Neural+Nets+for+Everything;He+who+creates." alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C97D3E&center=true&vCenter=true&width=820&lines=Founder+and+CEO%2C+AFI;Agentic+finance+across+23+chains;Rust%2C+Solidity%2C+TypeScript%2C+Python;Local+LLM+swarm+on+one+laptop;Neural+Nets+for+Everything;He+who+creates." alt="typing intro" />
 </p>
 
 <p align="center">
@@ -13,14 +13,30 @@
 
 ### He who creates.
 
-Founder and CEO of **AFI**. Agentic finance across 23 chains, built on LayerZero V2 and Circle CCTP, with Visa rails and native x402.
+Founder and CEO of **AFI**. Agentic finance across 23 chains, built on LayerZero V2 and Circle CCTP, with Visa rails and native x402. I build the whole stack: contracts, backends, apps, and the local AI that runs them.
 
 ### What I am shipping right now
 
-- **AFI**. The agentic bank. Mainnet, Sprint 2.3 pushing to live end-to-end across 23 chains.
-- **2gather**. Invite-only social network. Four mobile sprints, shipped single-day on 2026-05-19.
+- **Alexander**. My own LLM swarm, run on one RTX 5090 laptop. A 27B model plus tool-using agents, local web search and a nightly loop that harvests real requests, runs the exam (80/83 and climbing) and fine-tunes. It serves production with no cloud API.
+- **Halcyon**. [retreatsbyhalcyon.com](https://retreatsbyhalcyon.com): bookings, Stripe checkout, practitioner profiles and an operator console with Alexander built in. Next.js on Postgres.
+- **Chains of War**. Browser strategy game: Vite + three.js client, onchain faction economy.
+- **AFI**. The agentic bank: omnichain $AFI token suite and cross-chain settlement.
+
+### Shipped before
+
+- **Memetropolis**. $300K LayerZero V2 cross-chain launchpad. Rust and Solidity contracts, subgraph, backend, frontend.
+- **BTCSOL**. Solana program in Rust (Anchor), with a Helius-backed client.
+- **2gather**. Invite-only social network. Expo + Supabase, four mobile sprints in one day.
 - **Lineage**. Productized intake loop that builds personal neural nets for clients.
-- **Memetropolis**. $300K LayerZero V2 cross-chain launchpad. Patterns now feeding the AFI bridge layer.
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,solidity,ts,js,py,bash&theme=dark" alt="languages: Rust, Solidity, TypeScript, JavaScript, Python, Bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,threejs,vite,pytorch,docker,linux,vercel&theme=dark" alt="tools: Next.js, React, Node, Postgres, three.js, Vite, PyTorch, Docker, Linux, Vercel" />
+</p>
+
+Most of my code lives in private repos, so the cards below only count the public ones.
 
 ### How I work
 
@@ -30,7 +46,6 @@ I pair a senior dev with a custom neural net of agents. The pairing is the produ
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RichardTheBruce&show_icons=true&hide_border=true&title_color=c97d3e&icon_color=c97d3e&text_color=1C1C1C&bg_color=F5F2EC" height="170" alt="github stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RichardTheBruce&layout=compact&hide_border=true&title_color=c97d3e&text_color=1C1C1C&bg_color=F5F2EC" height="170" alt="top languages" />
 </p>
 
 <p align="center">
