@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/commits.svg" width="840" alt="Commits authored, public and private" />
+  <img src="./assets/commits.svg" width="840" alt="Contributions in 2026, public and private" />
 </p>
 
 ### He who creates.
