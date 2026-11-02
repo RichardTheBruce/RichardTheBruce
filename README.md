@@ -22,9 +22,9 @@ Tech VP at **Barclays**. Founder of **AFI**. Founder, CEO/CTO and DevOps lead wh
 ### Track record
 
 - **Global Genesis**. At 24, as a sole proprietor, I built a confidence-interval model that predicted hospital supply needs during COVID-19 by product type, quantity and timing at 85 to 97% accuracy. It generated **nine figures in revenue**.
-- **Venture**. Raised **$500K+ in VC funding** as founder-engineer. Shipped the first ONFT launchpad in 2021 and built the server infrastructure for the first ONFT ever moved across LayerZero.
-- **GBlock**. Owned my own engineering company. CEO/CTO and DevOps: hired, managed and shipped with the engineering teams.
-- **Cross-chain**. Designed DVN (decentralized verifier network) structures for LayerZero messaging, and the bridge layer behind AFI's 23 chains.
+- **Venture**. Raised **$500K in VC funding** as founder-engineer and shipped the first ONFT launchpad in 2021.
+- **GBlock**. Owned my own engineering company and earned **~$500K** with it. CEO/CTO and DevOps: hired, managed and shipped with the engineering teams.
+- **LayerZero / DVNs**. Created **the first ONFT ever moved across LayerZero's DVNs** and built the server infrastructure behind it. Deep in the stack since: DVN and executor configuration, `setPeer` wiring across endpoint IDs (EIDs), OApp / OFT / ONFT contracts and atomic cross-chain swaps. The same patterns run the bridge layer behind AFI's 23 chains.
 
 ### Building now
 
