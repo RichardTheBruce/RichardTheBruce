@@ -17,7 +17,14 @@
 
 ### He who creates.
 
-Tech VP at **Barclays**. Founder of **AFI**. I ship across the whole stack: smart contracts in Rust and Solidity, TypeScript products, Python ML, and the local AI that runs them. Almost all of it lives in private repos, so the numbers above are counted from every repo I commit to, not just the public ones.
+Tech VP at **Barclays**. Founder of **AFI**. Founder, CEO/CTO and DevOps lead who has raised venture money, owned an engineering company and hired and run the teams under it. I ship across the whole stack: Rust and Solidity contracts, cross-chain DVN structures, TypeScript products, Python ML and the local AI that runs them. Almost all of it lives in private repos, so the numbers above count every repo I commit to, not just the public ones.
+
+### Track record
+
+- **Global Genesis**. At 24, as a sole proprietor, I built a confidence-interval model that predicted hospital supply needs during COVID-19 by product type, quantity and timing at 85 to 97% accuracy. It generated **nine figures in revenue**.
+- **Venture**. Raised **$500K+ in VC funding** as founder-engineer. Shipped the first ONFT launchpad in 2021 and built the server infrastructure for the first ONFT ever moved across LayerZero.
+- **GBlock**. Owned my own engineering company. CEO/CTO and DevOps: hired, managed and shipped with the engineering teams.
+- **Cross-chain**. Designed DVN (decentralized verifier network) structures for LayerZero messaging, and the bridge layer behind AFI's 23 chains.
 
 ### Building now
 
