@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/richard-wayne-nuro"><img src="https://img.shields.io/badge/linkedin-richard--wayne--nuro-1C1C1C?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/richardthebruce"><img src="https://img.shields.io/badge/linkedin-richardthebruce-1C1C1C?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <img src="https://komarev.com/ghpvc/?username=RichardTheBruce&label=profile+views&color=c97d3e&style=flat-square" alt="profile views" />
 </p>
 
@@ -26,6 +26,17 @@ Tech VP at **Barclays**. Founder of **AFI**. Founder, CEO/CTO and DevOps lead wh
 - **GBlock**. Owned my own engineering company and earned **~$500K** with it. CEO/CTO and DevOps: hired, managed and shipped with the engineering teams.
 - **LayerZero / DVNs**. Created **the first ONFT ever moved across LayerZero's DVNs** and built the server infrastructure behind it. Deep in the stack since: DVN and executor configuration, `setPeer` wiring across endpoint IDs (EIDs), OApp / OFT / ONFT contracts and atomic cross-chain swaps. The same patterns run the bridge layer behind AFI's 23 chains.
 
+### Publications
+
+- **[On the Matter of Consciousness and Its Equivocation: Toward a Physical Framework for the Properties of Conscious Mass](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6672218)**. SSRN, April 2026. The first formal framework treating conscious human beings as mass bodies, built on Payne-Gaposchkin's stellar classification, with an original decay wave function W(t).
+- **[How State Overreach Drives Technological Innovation as a Form of Political Resistance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6692018)**. SSRN, May 2026. Resistance innovation cycles from Gutenberg and Samizdat to Bitcoin.
+- All papers: **[SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11300549)**
+
+Engineering write-ups:
+
+- **[The agent lied about freezing my card. So I made lying structurally impossible.](https://www.richardthebruce.com/writing/agents-that-cannot-lie)** Separating intent from execution, with an on-chain hash as the only proof an agent's claim is true.
+- **[Two users, one second, seven chains: the concurrency bug that strands funds](https://www.richardthebruce.com/writing/nonces-advisory-locks)**. How naive sequential signing collides nonces, and the fix that held across 7 chains and 5,000 users.
+
 ### Building now
 
 - **Alexander**. My own LLM swarm on one RTX 5090 laptop: a 27B model, tool-using agents, local web search and a nightly loop that harvests real requests, examines the model and fine-tunes it. It serves production with no cloud API.
@@ -35,7 +46,7 @@ Tech VP at **Barclays**. Founder of **AFI**. Founder, CEO/CTO and DevOps lead wh
 
 ### Shipped
 
-- **Memetropolis**. $300K LayerZero V2 cross-chain launchpad. Rust and Solidity contracts, subgraph, backend, frontend.
+- **Memetropolis**. $300K LayerZero V2 launchpad: the first DVN-based token launchpad, native across 7 chains at once with no synthetic assets, held up at 5,000 users. Rust and Solidity contracts, subgraph, backend, frontend.
 - **Cashly**. Crypto payments and banking, with a LayerZero OFT adapter.
 - **BTCSOL**. Solana program in Rust (Anchor), with a Helius-backed client.
 - **2gather**. Invite-only social network. Expo + Supabase, four mobile sprints in one day.
@@ -65,7 +76,9 @@ Tech VP at **Barclays**. Founder of **AFI**. Founder, CEO/CTO and DevOps lead wh
 
 ### Where to find me
 
-- LinkedIn: **[richard-wayne-nuro](https://linkedin.com/in/richard-wayne-nuro)**
+- LinkedIn: **[richardthebruce](https://www.linkedin.com/in/richardthebruce)**
+- Site and writing: **[richardthebruce.com](https://www.richardthebruce.com/writing)**
+- Research: **[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11300549)**
 - Upwork: catalog **2054540114667442621** (Neural Nets for Everything)
 
 <p align="center">
