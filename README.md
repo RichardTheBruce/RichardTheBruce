@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/commits.svg?v=202611022341" width="840" alt="Contributions in 2026, public and private" />
+  <img src="./assets/commits.svg?v=202611052341" width="840" alt="Contributions in 2026, public and private" />
 </p>
 
 ### He who creates.
@@ -52,7 +52,7 @@ Engineering write-ups:
 - **2gather**. Invite-only social network. Expo + Supabase, four mobile sprints in one day.
 
 <p align="center">
-  <img src="./assets/activity.svg?v=202611022341" width="840" alt="Commits per month" />
+  <img src="./assets/activity.svg?v=202611052341" width="840" alt="Commits per month" />
 </p>
 
 ### Stack
@@ -63,7 +63,7 @@ Engineering write-ups:
 </p>
 
 <p align="center">
-  <img src="./assets/languages.svg?v=202611022341" width="840" alt="Languages by number of repos" />
+  <img src="./assets/languages.svg?v=202611052341" width="840" alt="Languages by number of repos" />
 </p>
 
 ### Contribution snake
