@@ -17,14 +17,16 @@
 
 ### He who creates.
 
-Tech VP at **Barclays**. Founder of **AFI**. Founder, CEO/CTO and DevOps lead who has raised venture money, owned an engineering company and hired and run the teams under it. I ship across the whole stack: Rust and Solidity contracts, cross-chain DVN structures, TypeScript products, Python ML and the local AI that runs them. Almost all of it lives in private repos, so the numbers above count every repo I commit to, not just the public ones.
+I build systems that move money and run themselves. I'm a Tech VP at **Barclays** and the founder of **AFI**, an agentic finance network across 23 chains. Before that I raised venture money, built my own engineering company and hired the teams that shipped for it.
+
+I work the whole stack myself: Rust and Solidity contracts, cross-chain messaging over LayerZero DVNs, TypeScript products on top, and the local models that operate them. Most of that lives in private repos, so the card above counts every repo I commit to, not just the public ones.
 
 ### Track record
 
-- **Global Genesis**. At 24, as a sole proprietor, I built a confidence-interval model that predicted hospital supply needs during COVID-19 by product type, quantity and timing at 85 to 97% accuracy. It generated **nine figures in revenue**.
-- **Venture**. Raised **$500K in VC funding** as founder-engineer and shipped the first ONFT launchpad in 2021.
-- **GBlock**. Owned my own engineering company and earned **~$500K** with it. CEO/CTO and DevOps: hired, managed and shipped with the engineering teams.
-- **LayerZero / DVNs**. Created **the first ONFT ever moved across LayerZero's DVNs** and built the server infrastructure behind it. Deep in the stack since: DVN and executor configuration, `setPeer` wiring across endpoint IDs (EIDs), OApp / OFT / ONFT contracts and atomic cross-chain swaps. The same patterns run the bridge layer behind AFI's 23 chains.
+- **Global Genesis**. At 24, working alone, I built a confidence-interval model that forecast hospital supply needs through COVID-19 by product, quantity and timing at 85 to 97% accuracy. It generated **nine figures in revenue**.
+- **Venture**. Raised **$500K** as founder-engineer and shipped the first ONFT launchpad in 2021.
+- **GBlock**. Built and owned an engineering company that earned **~$500K**. As CEO/CTO and DevOps lead I hired the team, ran it and shipped alongside it.
+- **LayerZero DVNs**. Sent **the first ONFT ever moved across LayerZero's DVNs** and built the servers behind it. I've lived in that stack since: DVN and executor configuration, `setPeer` wiring across endpoint IDs, OApp / OFT / ONFT contracts and atomic cross-chain swaps. The same patterns carry AFI's bridge layer across 23 chains.
 
 ### Publications
 
@@ -39,17 +41,17 @@ Engineering write-ups:
 
 ### Building now
 
-- **Alexander**. My own LLM swarm on one RTX 5090 laptop: a 27B model, tool-using agents, local web search and a nightly loop that harvests real requests, examines the model and fine-tunes it. It serves production with no cloud API.
+- **Alexander**. A private LLM swarm on a single RTX 5090 laptop: a 27B model, tool-using agents, local web search, and a nightly loop that harvests real requests, evaluates the model and fine-tunes it. It serves production with no cloud API.
 - **Halcyon**. [retreatsbyhalcyon.com](https://retreatsbyhalcyon.com): bookings, Stripe checkout, practitioner profiles and an operator console with Alexander built in. Next.js on Postgres.
-- **Chains of War**. Browser strategy game: Vite + three.js client, onchain faction economy.
+- **Chains of War**. A browser strategy game with a three.js client and an onchain faction economy.
 - **AFI**. Agentic finance across 23 chains on LayerZero V2 and Circle CCTP, with Visa rails and native x402.
 
 ### Shipped
 
-- **Memetropolis**. $300K LayerZero V2 launchpad: the first DVN-based token launchpad, native across 7 chains at once with no synthetic assets, held up at 5,000 users. Rust and Solidity contracts, subgraph, backend, frontend.
+- **Memetropolis**. The first DVN-based token launchpad, a $300K build on LayerZero V2. Tokens launched native on 7 chains at once with no synthetic assets, and it held at 5,000 users. I wrote the Rust and Solidity contracts, subgraph, backend and frontend.
 - **Cashly**. Crypto payments and banking, with a LayerZero OFT adapter.
-- **BTCSOL**. Solana program in Rust (Anchor), with a Helius-backed client.
-- **2gather**. Invite-only social network. Expo + Supabase, four mobile sprints in one day.
+- **BTCSOL**. A Solana program in Rust (Anchor) with a Helius-backed client.
+- **2gather**. An invite-only social network on Expo and Supabase. Four mobile sprints shipped in one day.
 
 <p align="center">
   <img src="./assets/activity.svg?v=202611062341" width="840" alt="Commits per month" />
