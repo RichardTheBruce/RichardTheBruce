@@ -49,5 +49,5 @@
 <rect class="bar" style="animation-delay:0.58s" x="747.2" y="146.4" width="15.2" height="45.6" rx="2" fill="#C97D3E" opacity="1"><title>2026-09: 520 commits</title></rect>
 <rect class="bar" style="animation-delay:0.60s" x="771.7" y="56.0" width="15.2" height="136.0" rx="2" fill="url(#g)" opacity="1"><title>2026-10: 1552 commits</title></rect>
 <text x="779.2" y="48.0" text-anchor="middle" class="t" font-size="12" font-weight="650">1,552</text>
-<rect class="bar" style="animation-delay:0.62s" x="796.2" y="79.4" width="15.2" height="112.6" rx="2" fill="#C97D3E" opacity="1"><title>2026-11: 1285 commits</title></rect>
+<rect class="bar" style="animation-delay:0.62s" x="796.2" y="75.0" width="15.2" height="117.0" rx="2" fill="#C97D3E" opacity="1"><title>2026-11: 1335 commits</title></rect>
 </svg>
