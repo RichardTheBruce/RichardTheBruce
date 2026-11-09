@@ -13,7 +13,7 @@
 </defs>
 <rect x=".5" y=".5" width="839" height="249" rx="14" fill="#141414" stroke="#2A2723"/>
 <text x="32" y="44" class="m" font-size="11">2026  ·  public + private repos</text>
-<g class="rise"><text x="30" y="128" class="t" font-size="88" font-weight="760" letter-spacing="-3"><tspan style="fill:url(#g)" fill="url(#g)">6,100</tspan><tspan dx="18" font-size="26" font-weight="500" letter-spacing="0" fill="#F5F2EC">contributions in 2026</tspan></text></g>
+<g class="rise"><text x="30" y="128" class="t" font-size="88" font-weight="760" letter-spacing="-3"><tspan style="fill:url(#g)" fill="url(#g)">6,116</tspan><tspan dx="18" font-size="26" font-weight="500" letter-spacing="0" fill="#F5F2EC">contributions in 2026</tspan></text></g>
 <g class="rise" style="animation-delay:.25s">
   <circle cx="748" cy="92" r="50" fill="none" stroke="#2A2723" stroke-width="7"/>
   <circle cx="748" cy="92" r="50" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round"
