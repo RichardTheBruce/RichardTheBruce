@@ -21,8 +21,8 @@
 <rect class="bar" style="animation-delay:0.06s" x="110.2" y="190.0" width="15.2" height="2.0" rx="2" fill="#2A2723" opacity=".9"><title>2024-07: 0 commits</title></rect>
 <rect class="bar" style="animation-delay:0.08s" x="134.7" y="190.0" width="15.2" height="2.0" rx="2" fill="#C97D3E" opacity="1"><title>2024-08: 7 commits</title></rect>
 <rect class="bar" style="animation-delay:0.10s" x="159.2" y="185.4" width="15.2" height="6.6" rx="2" fill="#C97D3E" opacity="1"><title>2024-09: 96 commits</title></rect>
-<rect class="bar" style="animation-delay:0.12s" x="183.7" y="175.8" width="15.2" height="16.2" rx="2" fill="#C97D3E" opacity="1"><title>2024-10: 234 commits</title></rect>
-<rect class="bar" style="animation-delay:0.14s" x="208.2" y="183.6" width="15.2" height="8.4" rx="2" fill="#C97D3E" opacity="1"><title>2024-11: 121 commits</title></rect>
+<rect class="bar" style="animation-delay:0.12s" x="183.7" y="175.9" width="15.2" height="16.1" rx="2" fill="#C97D3E" opacity="1"><title>2024-10: 234 commits</title></rect>
+<rect class="bar" style="animation-delay:0.14s" x="208.2" y="183.7" width="15.2" height="8.3" rx="2" fill="#C97D3E" opacity="1"><title>2024-11: 121 commits</title></rect>
 <rect class="bar" style="animation-delay:0.16s" x="232.7" y="188.2" width="15.2" height="3.8" rx="2" fill="#C97D3E" opacity="1"><title>2024-12: 55 commits</title></rect>
 <rect class="bar" style="animation-delay:0.18s" x="257.2" y="189.7" width="15.2" height="2.3" rx="2" fill="#C97D3E" opacity="1"><title>2025-01: 34 commits</title></rect>
 <text x="257.2" y="212" class="m" font-size="10">2025</text>
@@ -48,6 +48,6 @@
 <rect class="bar" style="animation-delay:0.56s" x="722.7" y="181.1" width="15.2" height="10.9" rx="2" fill="#C97D3E" opacity="1"><title>2026-08: 158 commits</title></rect>
 <rect class="bar" style="animation-delay:0.58s" x="747.2" y="156.1" width="15.2" height="35.9" rx="2" fill="#C97D3E" opacity="1"><title>2026-09: 520 commits</title></rect>
 <rect class="bar" style="animation-delay:0.60s" x="771.7" y="84.9" width="15.2" height="107.1" rx="2" fill="#C97D3E" opacity="1"><title>2026-10: 1552 commits</title></rect>
-<rect class="bar" style="animation-delay:0.62s" x="796.2" y="56.0" width="15.2" height="136.0" rx="2" fill="url(#g)" opacity="1"><title>2026-11: 1970 commits</title></rect>
-<text x="803.8" y="48.0" text-anchor="middle" class="t" font-size="12" font-weight="650">1,970</text>
+<rect class="bar" style="animation-delay:0.62s" x="796.2" y="56.0" width="15.2" height="136.0" rx="2" fill="url(#g)" opacity="1"><title>2026-11: 1971 commits</title></rect>
+<text x="803.8" y="48.0" text-anchor="middle" class="t" font-size="12" font-weight="650">1,971</text>
 </svg>
